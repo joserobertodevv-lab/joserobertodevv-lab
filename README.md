@@ -66,11 +66,17 @@
 <!-- ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia) -->
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joserobertodevv-lab&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserobertodevv-lab&layout=compact&theme=tokyonight" />
-</p>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=joserobertodevv-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  />
 
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserobertodevv-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+</p>
 ---
 
 ## 🚀 Philosophy
