@@ -66,17 +66,11 @@
 <!-- ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia) -->
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center"> <img height="170" src="https://streak-stats.demolab.com/?user=joserobertodevv-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
-<img height="170" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=joserobertodevv-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joserobertodevv-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joserobertodevv-lab&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserobertodevv-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </p>
 
