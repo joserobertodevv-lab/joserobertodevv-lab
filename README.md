@@ -68,9 +68,9 @@
 
 <p align="center"> <img height="170" src="https://streak-stats.demolab.com/?user=joserobertodevv-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=joserobertodevv-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p align="center"> <img height="170" src="https://github-stats-extended.vercel.app/api?username=joserobertodevv-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserobertodevv-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joserobertodevv-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </p>
 
